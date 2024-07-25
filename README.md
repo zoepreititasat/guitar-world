@@ -19,4 +19,4 @@ Frontend: HTML, CSS
 Design: Figma
 
 ## Project Leader: Zoe Preiti Tasat
-### We hope you find this project useful and we welcome any feedback or contributions to enhance it!
+### I hope you find this project useful and I welcome any feedback or contributions to enhance it!
